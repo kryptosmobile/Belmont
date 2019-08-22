@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id = "com.Kryptos.BelmontAdhoc" version   = "2.0.0">
+        id = "com.Kryptos.BelmontAdhoc" version   = "2.0.2">
         <name>myBelmont</name>
         <description>Belmont mobile App</description>
         <author href="http://kryptosmobile.com" email="info@kryptosmobile.com">Kryptos Mobile Team</author>
@@ -123,7 +123,7 @@
             <variable name="PHOTOLIBRARY_USAGE_DESCRIPTION" value="to send notification" />
         </plugin>
         <gap:plugin name="cordova-plugin-actionsheet" source="npm" />
-        <g<!--<gap:plugin name="cordova-plugin-x-socialsharing" source="npm" />-->
+        <!--<gap:plugin name="cordova-plugin-x-socialsharing" source="npm" />-->
         <gap:plugin name="cordova-plugin-x-socialsharing" source="npm" spec="5.4.1"/>
         
         
